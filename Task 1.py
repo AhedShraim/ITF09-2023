@@ -13,6 +13,7 @@ def mul(x,y):
 
 num1 = int(input("Enter Number 1 "))
 num2 = int(input("Enter Number 2 "))
+
 total = add(num1,num2)
 print("Total of the addition process is ",total)
 total = sub(num1,num2)
